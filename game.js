@@ -4,7 +4,7 @@ function guessTheBakeryItem() {
         { name: "Cupcake", clue: "This small, sweet treat comes in a cup-shaped paper." },
         { name: "Croissant", clue: "A buttery, flaky pastry that's often shaped like a crescent." },
         { name: "Donut", clue: "This item is fried and often has a hole in the middle." },
-        { name: "Eclair", clue: "A long, cream-filled pastry often covered in chocolate." }
+        { name: "Eclair", clue: "A long, cream-filled pastry often covered in chocolate." },
         { name: "Tart", clue: "This dessert typically has a crust and is filled with fruit or custard." },
         { name: "Macaron", clue: "A small, round, delicate cookie made of almond flour, with a creamy filling." },
         { name: "Brownie", clue: "A dense, fudgy dessert often made with chocolate and nuts." }
